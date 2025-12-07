@@ -1,0 +1,6 @@
+{
+    "name": "CentOS 7 Codespace",
+    "dockerfile": "Dockerfile", 
+    "remoteUser": "root",
+    "runArgs": ["--privileged"]
+}
